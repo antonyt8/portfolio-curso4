@@ -1,0 +1,16 @@
+{
+    "name": "Portfólio - Antony Thiago",
+    "short_name": "Portfólio",
+    "description": "Portfólio de Antony Thiago - Desenvolvedor Front-end",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#22D4FD",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "192x192",
+            "type": "image/x-icon"
+        }
+    ]
+}
